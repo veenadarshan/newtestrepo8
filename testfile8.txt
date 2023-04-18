@@ -22,3 +22,7 @@ hi drithi....!
 {
 hi arun...!
 }
+
+{
+x=2
+}
